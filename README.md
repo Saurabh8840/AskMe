@@ -61,7 +61,7 @@ Check out the live demo:
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/tanishra/AskMe.git
+   git clone https://github.com/Saurabh8840/AskMe.git
    cd AskMe/backend
    ```
 
